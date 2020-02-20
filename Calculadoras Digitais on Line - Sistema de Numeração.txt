@@ -1,0 +1,36 @@
+-- Conversão Binária => Decimal e Decimal => Binária
+
+https://pt.calcuworld.com/calculadoras-matematicas/calculadora-binaria/
+
+
+
+-- Calculadora Binária
+
+https://calcuonline.com/calculadoras/calculadora-binaria/
+
+
+
+
+-- Calculador Octal
+
+https://miniwebtool.com/octal-calculator/
+
+
+
+
+-- Calculadora Hexa
+
+https://www.calculator.net/hex-calculator.html/
+
+
+
+
+-- Representação Binária e Complemento de 2 (Carry / Estouro de Bit)
+
+https://es.planetcalc.com/747/
+
+
+
+-- Complemento de 1 e 2
+
+https://medium.com/@jeanfelipemartinsdacosta/sinal-magnitude-bit-de-sinal-complemento-de-1-e-complemento-de-2-a1d32045ab18
